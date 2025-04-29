@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: UoB Health Hackathon
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Created as part of the University of Birmingham Diabetes Health Hackathon (PUT_LINK_HERE) on 10th May 2025. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://uobhealthhackathon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: unibirmingham
+github_username:  uobhealthhackathon
 
 # Build settings
 theme: minima
