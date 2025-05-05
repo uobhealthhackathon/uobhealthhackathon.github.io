@@ -1,12 +1,16 @@
 ---
 layout: post
 title:  "Adding a post to this site"
-date:   2025-05-05 14:35:52 +0100
-categories: jekyll update
 ---
 
 ### Making a post 
-First of all you'll need to make a new file in the `_posts/` directory with a name in the format `YYYY-MM-DD-POSTNAME.markdown`
+First of all you'll need to make a new file in the `_posts/` directory with a name in the format `YYYY-MM-DD-POSTNAME.markdown`. The top of that file contains something called [front matter](https://jekyllrb.com/docs/front-matter/) which tells Jekyll what it contains. The front matter for this post looks like this,
+```
+---
+layout: post
+title: "Adding a post to this site"
+---
+``` 
 
 ### How to write Markdown
 Thankfully the majority of writing Markdown is the same as writing plain English - you just need to tell Jekyll what you'd like it to do with certain bits of text. The title just above this, for example. Go and check out this fantastic guide to see all the wacky and wonderful stuff you can do in Markdown: [https://www.ihsantopaloglu.com/Jekyll-Markdown-Cheat-Sheet/](https://www.ihsantopaloglu.com/Jekyll-Markdown-Cheat-Sheet/)
