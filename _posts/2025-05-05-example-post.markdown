@@ -14,7 +14,7 @@ Thankfully the majority of writing Markdown is the same as writing plain English
 ### Adding a video to your post 
 To do this, you'll need to use a little HTML, but YouTube will give you a hand and generate it for you! First of all, go to the video you'd like to add to your post, and click "Share", and then "Embed". You should see something like this:  
 
-{ % highlight html % }
+{% highlight html %}
 ```
 <iframe width="560" height="315" 
     src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=ZbBBfRSoe3b_dfsF" 
@@ -23,7 +23,7 @@ To do this, you'll need to use a little HTML, but YouTube will give you a hand a
     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 ```
-{ % endhighlight % }
+{% endhighlight %}
 
 Simply add that to your post, and voila! Rick Astley at his finest!
 
