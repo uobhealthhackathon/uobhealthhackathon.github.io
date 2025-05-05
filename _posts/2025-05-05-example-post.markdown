@@ -15,12 +15,14 @@ Thankfully the majority of writing Markdown is the same as writing plain English
 To do this, you'll need to use a little HTML, but YouTube will give you a hand and generate it for you! First of all, go to the video you'd like to add to your post, and click "Share", and then "Embed". You should see something like this:  
 
 { % highlight html % }
+```
 <iframe width="560" height="315" 
     src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=ZbBBfRSoe3b_dfsF" 
     title="YouTube video player" frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
+```
 { % endhighlight % }
 
 Simply add that to your post, and voila! Rick Astley at his finest!
