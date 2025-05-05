@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Diabetes Health Hackathon
-email: your-email@example.com
+email: smqb@contacts.bham.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Created as part of the University of Birmingham Diabetes Health Hackathon (PUT_LINK_HERE) on 10th May 2025. 
+  Created by participants at the University of Birmingham Diabetes Health Hackathon on 10th May 2025. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://uobhealthhackathon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: unibirmingham
+twitter_username: smqb_uob
 github_username:  uobhealthhackathon
 
 # Build settings
