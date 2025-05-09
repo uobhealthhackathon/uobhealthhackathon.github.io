@@ -23,11 +23,12 @@ Clearly it's wrong here, and not only that, you won't necessarily get the same i
 Being aware of the pitfalls of GenAI will get you a long way in being responsible with it! Here are a couple of quick recommendations that you could try out:  
 * Always check and verify the information it gives you - you can't be sure that what's it's saying is correct or truthful, or even if it's completely made up. 
 * Make sure you're using it as a tool to assist you, rather than using it to do the job entirely. Don't develop an overreliance on it - if you can't explain what you use from it, you can't be sure what you're doing.
-* Consider whether or not using a GenAI tool could lead to "learning loss". Even by using it for seemingly simple tasks (like using it as a search engine) or writing an email, you're no longer improving the required skills to
+* Consider whether or not using a GenAI tool could lead to "learning loss". Even by using it for seemingly simple tasks (like using it as a search engine) or writing an email, you're no longer improving the required skills to perform that task. Usually (over time) you'd improve at stuff like creative writing, filtering information to find what's relevant, etc. - if you rely on GenAI for those things, you're not going to get better at them.
 * Always attribute the relevant parts of your work to AI if you've used it, and if you're not sure of its' own sources - ask!
 * Remember that whatever you use GenAI for, the responsiblity to verify and attribute the results always lies with **you**
 
 In essence, make sure you're being critical and careful with GenAI tools, whilst remembering they can be a powerful tool in the right hands 💖
 
 ### What now? 
+
 
