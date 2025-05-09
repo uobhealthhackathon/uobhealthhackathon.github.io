@@ -33,7 +33,7 @@ This is a little more complicated than adding text, but let's do this. You'll ne
 
 Once `YOUR_IMAGE` is in `assets/`, you can add it to your post like this,
 {% highlight html %}
-<img src="{{site.baseurl}}/assets/YOUR_IMAGE.png">
+<img src="\{{site.baseurl\}}/assets/YOUR_IMAGE.png">
 {% endhighlight %}
 
 ### Adding a video to your post 
