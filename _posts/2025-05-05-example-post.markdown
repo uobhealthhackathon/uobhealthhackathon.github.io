@@ -14,11 +14,11 @@ title: "Adding a post to this site"
 
 To create a file, on the GitHub repository [https://github.com/uobhealthhackathon/uobhealthhackathon.github.io](https://github.com/uobhealthhackathon/uobhealthhackathon.github.io), go to "Code", click the "_posts/" directory, then click "Add file", and then "Create new file"
 
-<img src="{{site.baseurl}}/assets/add_file.jpg">
+<img src="{{site.baseurl}}/assets/add_file.png">
 
 From there, give your post the `YYYY-MM-DD-POSTNAME.markdown` name, and click "Commit changes"
 
-<img src="{{site.baseurl}}/assets/create_post.jpg">
+<img src="{{site.baseurl}}/assets/create_post.png">
 
 You can do the same for images, but instead of the `_posts/` directory, we should store them in `assets/` instead to keep the repository nice and tidy!
 
