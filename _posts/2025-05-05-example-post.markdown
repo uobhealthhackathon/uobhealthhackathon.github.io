@@ -12,6 +12,10 @@ title: "Adding a post to this site"
 ---
 ``` 
 
+To create a file, on the GitHub repository [https://github.com/uobhealthhackathon/uobhealthhackathon.github.io](https://github.com/uobhealthhackathon/uobhealthhackathon.github.io), go to "Code", click the "_posts_" directory, then click "Add file", and then "Create new file"
+
+![add file image](assets/add_file.png "Add file")
+
 ### How to write Markdown
 Thankfully the majority of writing Markdown is the same as writing plain English - you just need to tell Jekyll what you'd like it to do with certain bits of text. The title just above this, for example. Go and check out this fantastic guide to see all the wacky and wonderful stuff you can do in Markdown: [https://www.ihsantopaloglu.com/Jekyll-Markdown-Cheat-Sheet/](https://www.ihsantopaloglu.com/Jekyll-Markdown-Cheat-Sheet/)
 
