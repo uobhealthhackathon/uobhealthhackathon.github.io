@@ -3,6 +3,9 @@ layout: post
 title:  "Adding a post to this site"
 ---
 
+### How does the website work?
+TODO: TOM DO THIS BEFORE THE HACKATHON
+
 ### Making a post 
 First of all you'll need to make a new file in the `_posts/` directory with a name in the format `YYYY-MM-DD-POSTNAME.markdown`. The top of that file contains something called [front matter](https://jekyllrb.com/docs/front-matter/) which tells Jekyll what it contains. The front matter for this post looks like this,
 ```
@@ -12,7 +15,7 @@ title: "Adding a post to this site"
 ---
 ``` 
 
-To create a file, on the GitHub repository [https://github.com/uobhealthhackathon/uobhealthhackathon.github.io](https://github.com/uobhealthhackathon/uobhealthhackathon.github.io), go to "Code", click the "_posts/" directory, then click "Add file", and then "Create new file"
+To create a file, on the [GitHub repository](https://github.com/uobhealthhackathon/uobhealthhackathon.github.io), go to "Code", click the `_posts/` directory, then click "Add file", and then "Create new file"
 
 <img src="{{site.baseurl}}/assets/add_file.png">
 
