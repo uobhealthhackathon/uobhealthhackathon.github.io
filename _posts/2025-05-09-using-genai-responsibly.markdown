@@ -9,7 +9,7 @@ Generative AI (GenAI) is a subset of Artificial Intelligence that uses generativ
 ### If it does all that, why wouldn't I just use it for everything?!
 Though they can be incredibly useful, using GenAI tools without being careful can have unexpected consequences and impacts. One example would be their predisposition to state **incorrect** information with incredible confidence - just look at how many Rs ChatGPT thinks are in the word "Strawberry",
 
-
+<img src="{{site.baseurl}}/assets/strawberry_rs.jpeg">
 
 ### Well then, how can I use it responsibly?
 
