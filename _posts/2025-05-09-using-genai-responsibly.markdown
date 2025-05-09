@@ -30,5 +30,5 @@ Being aware of the pitfalls of GenAI will get you a long way in being responsibl
 In essence, make sure you're being critical and careful with GenAI tools, whilst remembering they can be a powerful tool in the right hands 💖
 
 ### What now? 
-
+As part of the hackathon, you're going to be able to use tools like [ChatGPT](https://chatgpt.com/), as well as sources like [Diabetes UK](https://www.diabetes.org.uk/about-diabetes) to gather information about diabetes, and then present that information in your posts. Just make sure to take what you've read here into account, and use any GenAI tools responsibly ☺️
 
