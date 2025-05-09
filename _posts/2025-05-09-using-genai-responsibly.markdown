@@ -11,7 +11,7 @@ Though they can be incredibly useful, using GenAI tools without being careful ca
 
 <img src="{{site.baseurl}}/assets/strawberry_rs.jpeg">
 
-Clearly it's wrong here, and even worse - you won't necessarily get the same information if you ask the same question twice! Though it's easy to spot that it's not correct in this case, if you were asking it to do something more complex (for example, generating some code for you), you could easily miss a small bug that could cause issues later on. What if you asked it to generate a graph from some data for you? Without checking that it had accurately plotted your data, you wouldn't know for sure that it had - you can't just take what was generated at face value. 
+Clearly it's wrong here, and not only that, you won't necessarily get the same information if you ask the same question twice! Though it's easy to spot that it's not correct in this case, if you were asking it to do something more complex (for example, generating some code for you), you could easily miss a small bug that could cause issues later on. What if you asked it to generate a graph from some data for you? Without checking that it had accurately plotted your data, you wouldn't know for sure that it had - you can't just take what was generated at face value. 
 
 [Just yesterday](https://www.legalcheek.com/2025/05/judge-fury-after-faaake-cases-cited-by-rookie-barrister-in-high-court/), a barrister in the UK was ordered to pay £2000 to a court defendant because they had accidentally quoted five _fake_ cases in what they had brought to the court. The judge said, 
 
