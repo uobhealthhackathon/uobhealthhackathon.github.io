@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Glucose Management within both forms of Diabetes
+title: "Glucose Management within both forms of Diabetes"
 ---
 
 ## Type 1 Diabetes
