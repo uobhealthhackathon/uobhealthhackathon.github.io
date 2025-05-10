@@ -42,3 +42,5 @@ Diabetes can affect digestion in a number of ways. If diabetes has caused nerve 
 An alternative cause of disturbed digestion can be the result of diabetes medication.
 
 Some type 2 diabetes medications for instance are prone to causing digestive issues, although these tend to settle down after the body gets used to them
+
+_Information taken from [https://www.diabetes.co.uk/how-does-diabetes-affect-the-body.html](https://www.diabetes.co.uk/how-does-diabetes-affect-the-body.html)_
