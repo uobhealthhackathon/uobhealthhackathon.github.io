@@ -3,9 +3,9 @@ layout: post
 title: "Treatment and Prevention of Diabetes"
 ---
 
-<img src="{{site.baseurl}}/assets/canva/treatments.png">
-
 ## Treatment
+
+<img src="{{site.baseurl}}/assets/canva/treatments.png">
 
 #### Type 1
 
