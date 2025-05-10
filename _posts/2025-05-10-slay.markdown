@@ -2,3 +2,8 @@
 layout: post
 title: "Diabetes"
 ---
+
+What is Diabetes?
+IT is a conditio where your body dosn,t produce enough insulin
+and you may have to have something sweat
+Many people have blood sugar levels above the normal range,
