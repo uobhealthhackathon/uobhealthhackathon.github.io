@@ -3,6 +3,8 @@ layout: post
 title: What is the difference between type 1 and type 2 diabetes?
 ---
 
+<img src="{{site.baseurl}}/assets/canva/type_1_and_type_2_3.png">
+
 ### Difference in how insulin is affected between type 1 and type 2 diabetes:
 there are various differences between type 1 and type 2 diabetes, one of the biggest differences id in how insulin is affected. This is because in type 1 diabetes, the body is unable to produce insulin, while type 2 diabetes involves insulin resistance and usually a gradual decrease in insulin production. 
 
