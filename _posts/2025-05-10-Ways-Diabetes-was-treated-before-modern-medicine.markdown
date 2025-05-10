@@ -12,3 +12,10 @@ Fasting.
 Patients were sometimes fasted for extended periods to try to control glucose levels in the blood. This did help to reduce symptons however 
 was not sustainable or a humane solution.
 
+Herbal medicines.
+
+In many cultures, diabetes was often treated with things such as herbal teas and medicines, however these did not work nor were they consistenly effective.
+
+In conclusion:
+
+For type 1 diabetes, which usually affects children or young adults, the prognosis was grim: most patients died within months to a few years of diagnosis. For type 2 diabetes, some people managed their condition longer with strict diets and lifestyle control.
