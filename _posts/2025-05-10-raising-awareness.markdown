@@ -33,7 +33,7 @@ Type 2- You can reduce the risk of type 2 diabetes through healthy eating, regul
 - have high blood pressure
 - have had gestational diabetes during pregnancy
 
-###Living with diabetes:
+### Living with diabetes:
 - If you're diagnosed with diabetes, you'll need to eat healthily, take regular exercise and have regular checks including blood tests.
 - You can use the BMI healthy weight calculator to check whether you're a healthy weight.
 - Try to quit smoking if you smoke, and cut down on alcohol.
