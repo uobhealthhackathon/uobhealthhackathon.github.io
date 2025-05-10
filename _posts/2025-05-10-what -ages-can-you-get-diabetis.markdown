@@ -8,3 +8,4 @@ The onset of diabetes is most common in people ages 45 to 64. Type 2 diabetes is
 
 Type 1 diabetes can develop in adults, often leading to misdiagnosis as Type 2 diabetes, and requires lifelong management with insulin therapy.
 
+<img src="{{site.baseurl}}/assets/insulin-and-syringe-with-blood-on-it-free-png.png">
