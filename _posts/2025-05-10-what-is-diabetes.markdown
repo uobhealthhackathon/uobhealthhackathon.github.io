@@ -22,7 +22,7 @@ Neonatal diabetes is when diabetes occours in people under 9 months of age.
 Maturity Onset Diabetes of the Young (MODY) is ussaly not genetic, if one parent carrys the gene, the offspring has a 50% chance of getting diabetes.
 
 Wolfram Syndrome is a genetic disorder which is known as DIDMOAD syndrome as its 4 most common features are diabetes insipidus, diabetes mellitus, optic atrophy, and deafness.
-Diabetes insipudis is where you can't consetrate urine leading to thirst and frequent urination, this does have some charictaristics of diabetes aswell.
+Diabetes insipidus is where you can't consetrate urine leading to thirst and frequent urination, this does have some charictaristics of diabetes aswell.
 Diabetes mellitus is similar to type 1 diabetes but it is not an autoimmune condition.
 Optic atrophy is where the optic nerve (The nerve to the eyes) wastes away leading to blindness.
 Deafness is hearing loss.
