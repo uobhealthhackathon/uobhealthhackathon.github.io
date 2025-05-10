@@ -1,1 +1,5 @@
-who invented  dieabeetes ?
+---
+layout: post
+title: "Who discovered diabetes?"
+---
+
