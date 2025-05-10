@@ -3,6 +3,9 @@ layout: post
 title: "Symptoms"
 ---
 
+<img src="{{site.baseurl}}/assets/symptoms.gif">
+
+
 the symtoms of diabetes are:
 - frequant urination
 - low energy levels
