@@ -3,6 +3,8 @@ layout: post
 title: "How diabetes affects a patients body"
 --- 
 
+<img src="{{site.baseurl}}/assets/canva/how_diabetes_affects_the_body.png">
+
 Knowing how diabetes affects your body can help you look after your body and prevent Diabetic complications from developing.
 Diabetic complications will usually take a number of years of poorly controlled diabetes to develop. 
 Complications are not a certainty and can be kept at bay and prevented by maintaining a strong level of control on your diabetes, your blood pressure and cholesterol
