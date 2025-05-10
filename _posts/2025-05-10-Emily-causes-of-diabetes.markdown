@@ -3,7 +3,7 @@ layout: post
 title: Causes of diabetes
 ---
 
-<img src="{../assets/canva/Causes of diabetes.png">
+<img src="{../assets/canva/causes_of_diabetes.png">
 
 type 1 diabetes – a lifelong condition where the body's immune system attacks and destroys the cells that produce insulin
 type 2 diabetes – where the body does not produce enough insulin, or the body's cells do not react to insulin properly
