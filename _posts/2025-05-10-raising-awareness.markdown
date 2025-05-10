@@ -30,3 +30,13 @@ What makes you more at risk to getting type 2 diabetes?
 - take certain medicines such as steroids for a long time
 - have high blood pressure
 - have had gestational diabetes during pregnancy
+
+Living with diabetes:
+- If you're diagnosed with diabetes, you'll need to eat healthily, take regular exercise and have regular checks including blood tests.
+- You can use the BMI healthy weight calculator to check whether you're a healthy weight.
+- Try to quit smoking if you smoke, and cut down on alcohol.
+- People diagnosed with type 1 diabetes also require regular insulin injections for the rest of their life.
+- Type 2 diabetes can get worse over time and people living with type 2 diabetes often need medicine, usually in the form of tablets or injections.
+- However, some people can put their type 2 diabetes into remission by losing weight, where their blood sugar is reduced below the diabetes range. Some people are able to do this through a low-calorie diet, but this is not suitable for everyone, so it's important to get medical advice first.
+
+
