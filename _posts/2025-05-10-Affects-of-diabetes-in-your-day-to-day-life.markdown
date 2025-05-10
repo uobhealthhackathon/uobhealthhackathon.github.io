@@ -2,6 +2,9 @@
 layout: post
 title: "Affects of diabetes in your day to day life for a person with Type i diabetes"
 ---
+
+<img src="{{site.baseurl}}/assets/canva/how_does_it_affect_your_body_slide1_2.png">
+
 ### Introduction: 
 There a various types of diabetes, the main ones are type 1, type 2 and a rarer one is Gestational. This post focuses on the main 2 types being type 1 and type 2 and the effect it has ono a persons day to day life. This blog will be concentrating on Type 1 diabetes
 
