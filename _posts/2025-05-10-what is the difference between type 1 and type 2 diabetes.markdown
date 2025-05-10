@@ -13,4 +13,4 @@ Another difference between the two is the development. For type 1, it typically 
 The causes are also quite different, type 1 diabetes is an autoimmune codition but type 2 is caused by lifestyle factors such as diet and excercise.
 
 ### Symptoms:
-While many aspects of type 1 and 2 diabetes are different, the common symptoms between the two are quite similar. For example, both give the symptom of increased thirst and
+While many aspects of type 1 and 2 diabetes are different, the common symptoms between the two are quite similar. For example, both give the symptom of increased thirst and frequent urination.
