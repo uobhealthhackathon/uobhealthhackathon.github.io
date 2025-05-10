@@ -28,4 +28,13 @@ if you get type 2 diabetes it would be a good idea to eat healthy and have a hea
 - it could also be caused by genetic factors
 everyone with diabetes aged 12 years old or over should be invited to have their eyes screened regularly.
 if you have diabetes your eyes are at risk from diabetic retinopathy 
+screening is a 30 minuet check on the back of the eyes
 
+### Autoimmune disease
+
+Common autoimmune disorders linked to type 1 diabetes: Thyroid disorders (such as Hashimoto’s thyroiditis), ceoliac disease, and vitiligo are often found alongside type 1 diabetes
+
+### diseases found alongside diabetes
+
+coeliac disease is where your body reacts to wheat or flour
+vitiligo is a skin condition that causes the skin to loose colour or pigmentation
