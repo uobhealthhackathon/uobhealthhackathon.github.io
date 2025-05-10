@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adding a post to this site"
+title: "Treatment and Prevention of Diabetes"
 ---
 
 ## Treatment
