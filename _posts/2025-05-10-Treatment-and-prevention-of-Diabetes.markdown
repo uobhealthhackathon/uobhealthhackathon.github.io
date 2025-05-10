@@ -22,7 +22,7 @@ Many treatments are similiar to type 1 diabetes however one of the first medicat
 
 #### Type 2
 
-Ways you can prevent type 2 diabetes is by having a healthy diet and exercising as it improves blood sugar control and insulin sensitivity.
+Ways you can prevent type 2 diabetes is by having a healthy diet and exercising as it improves blood sugar control and insulin sensitivity. Furthermore, if you smoke or drink you are more likely to obtain type 2 diabetes as it not only increases blood sugar level it also leads to insulin resistance which causes your body not to correctly respond to insulin leading to it being much less effective. 
 
 #### Type 1 
 
