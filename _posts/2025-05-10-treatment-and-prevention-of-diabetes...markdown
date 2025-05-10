@@ -1,4 +1,4 @@
 ---
 layout: post
-title: " treatment and prevention of diabetes""
+title: "Treatment and prevention of diabetes"
 ---
