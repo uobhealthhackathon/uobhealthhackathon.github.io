@@ -3,6 +3,8 @@ layout: post
 title: "Treatment and prevention of diabetes"
 ---
 
+<img src="{{site.baseurl}}/assets/how_is_insulin_used_to_treat_diabetes_2.png">
+
 ### introduction
 treatment is aimed at minimizing the risks of long-term microvascular and macrovascular complications by effective blood-glucose control and maintenance of glycated haemoglobin (HbAlc) at or below the target value set for each individual target
 
